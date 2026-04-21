@@ -113,20 +113,19 @@
 **`▸ Studium 프로젝트`**
 
 ```log
-> 학습/스터디 플랫폼 백엔드 설계 및 개발
+> --개발
 ```
 
 **`▸ SECUFIBRE web & app 개발`**
 
 ```log
-> 보안 광섬유 모니터링 서비스 Web / App 풀스택 개발
+> PWA 기반 web & app 디자인 및 프론트앤드 개발
 ```
 
 **`▸ Robot 프로젝트`**
 
 ```log
 > ROS2 + MoveIt 기반 매니퓰레이터 제어 시스템
-> Gazebo 시뮬레이션 환경 구축 및 실기 연동
 ```
 
 </td>
@@ -142,14 +141,12 @@
 
 ```log
 > PCB 제조 공정 관리 웹 서비스 개발
-> 공정 데이터 실시간 처리 및 대시보드 구축
 ```
 
 **`▸ Naver Cloud Platform Project — Daxi`**
 
 ```log
 > NCP 기반 Daxi 프로젝트 개발 진행
-> 클라우드 인프라 설계 및 서비스 배포
 ```
 
 </td>
