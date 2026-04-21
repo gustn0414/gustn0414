@@ -25,6 +25,7 @@
 > ```diff
 > ! 백엔드 & 로봇 개발 재직중인 개발자입니다.
 > + 로봇 제어(ROS2 / MoveIt / Gazebo)와 서버/API 개발을 합니다.
+> + 실제로 배포되고 돌아가는 시스템에 관심이 많습니다.
 > ```
 
 <br/>
@@ -44,15 +45,16 @@
 <img src="https://img.shields.io/badge/ROS2-0D0208?style=for-the-badge&logo=ros&logoColor=00FF41&labelColor=0D0208">
 <img src="https://img.shields.io/badge/MoveIt-0D0208?style=for-the-badge&logo=moveit&logoColor=FF3EC9&labelColor=0D0208">
 <img src="https://img.shields.io/badge/Gazebo-0D0208?style=for-the-badge&logo=gazebo&logoColor=FFE600&labelColor=0D0208">
-<img src="https://img.shields.io/badge/RViz-0D0208?style=for-the-badge&logoColor=00E5FF&labelColor=0D0208">
 <img src="https://img.shields.io/badge/URDF-0D0208?style=for-the-badge&logoColor=FFFFFF&labelColor=0D0208">
 </p>
 
 ### <kbd>⚙️ ~/backend</kbd>
 <p>
+<img src="https://img.shields.io/badge/FastAPI-0D0208?style=for-the-badge&logo=fastapi&logoColor=00FF41&labelColor=0D0208">
 <img src="https://img.shields.io/badge/Node.js-0D0208?style=for-the-badge&logo=node.js&logoColor=00FF41&labelColor=0D0208">
 <img src="https://img.shields.io/badge/Express-0D0208?style=for-the-badge&logo=express&logoColor=00E5FF&labelColor=0D0208">
 <img src="https://img.shields.io/badge/Flask-0D0208?style=for-the-badge&logo=flask&logoColor=FF3EC9&labelColor=0D0208">
+<img src="https://img.shields.io/badge/Kafka_Streaming-0D0208?style=for-the-badge&logo=apachekafka&logoColor=FFE600&labelColor=0D0208">
 </p>
 
 </td>
@@ -103,36 +105,51 @@
 <table width="100%">
 <tr>
 <td width="120" align="center" valign="middle">
-<img src="https://img.shields.io/badge/%5B2025%5D-00FF41?style=for-the-badge&labelColor=0D0208"/><br/>
+<img src="https://img.shields.io/badge/%5B2026%5D-00FF41?style=for-the-badge&labelColor=0D0208"/><br/>
 <sub>🔴 <b>LIVE</b></sub>
 </td>
 <td>
 
-**`▸ Backend & Robotics Developer`**  <br/>
-<sub>@ lorem ipsum corp.</sub>
+**`▸ Studium 프로젝트`**
 
 ```log
-> ROS2 기반 로봇 제어 시스템 개발
-> MoveIt / Gazebo 시뮬레이션 환경 구축
-> 백엔드 API 설계 및 배포 파이프라인 운영
+> 학습/스터디 플랫폼 백엔드 설계 및 개발
+```
+
+**`▸ SECUFIBRE web & app 개발`**
+
+```log
+> 보안 광섬유 모니터링 서비스 Web / App 풀스택 개발
+```
+
+**`▸ Robot 프로젝트`**
+
+```log
+> ROS2 + MoveIt 기반 매니퓰레이터 제어 시스템
+> Gazebo 시뮬레이션 환경 구축 및 실기 연동
 ```
 
 </td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle">
-<img src="https://img.shields.io/badge/%5B2024%5D-FF3EC9?style=for-the-badge&labelColor=0D0208"/><br/>
+<img src="https://img.shields.io/badge/%5B2025%5D-FF3EC9?style=for-the-badge&labelColor=0D0208"/><br/>
 <sub>📦 archived</sub>
 </td>
 <td>
 
-**`▸ Developer`**  <br/>
-<sub>@ lorem ipsum</sub>
+**`▸ ZZIRIT — 차세대 PCB 제조관리 웹 서비스`**
 
 ```log
-> Lorem ipsum dolor sit amet
-> consectetur adipiscing elit
-> sed do eiusmod tempor incididunt
+> PCB 제조 공정 관리 웹 서비스 개발
+> 공정 데이터 실시간 처리 및 대시보드 구축
+```
+
+**`▸ Naver Cloud Platform Project — Daxi`**
+
+```log
+> NCP 기반 Daxi 프로젝트 개발 진행
+> 클라우드 인프라 설계 및 서비스 배포
 ```
 
 </td>
