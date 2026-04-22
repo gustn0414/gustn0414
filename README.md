@@ -118,7 +118,7 @@
 **`▸ SECUFIBRE web & app 개발`**
 
 ```log
-> PWA 기반 web & app 디자인 및 프론트앤드 개발
+> PWA 기반 web & app 개발
 ```
 
 **`▸ Robot 프로젝트`**
